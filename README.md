@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Ru Chern's github stats](https://github-readme-stats.vercel.app/api?username=ruchern&show_icons=true&theme=dark)
+![Ru Chern's github stats](https://github-readme-stats.vercel.app/api?username=ruchern-chong&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&theme=dark)
 
 
 
