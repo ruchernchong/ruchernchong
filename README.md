@@ -2,11 +2,11 @@
 ### Hi there 👋
 -->
 
-![Ru Chern's github stats](https://github-readme-stats.vercel.app/api?username=ruchern-chong&show_icons=true&theme=dark&count_private=true)
+![Ru Chern's github stats](https://github-readme-stats.vercel.app/api?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruchern_chong)]
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruchern_chong)
 
 
 
