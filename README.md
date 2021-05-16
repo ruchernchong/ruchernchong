@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruchern_chong)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruchern_chong&hide_border=true&theme=dark)
 
 
 
