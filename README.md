@@ -6,11 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruchern_chong&theme=dark)
-
-
-
-
 <!--
 **ruchern/ruchern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
