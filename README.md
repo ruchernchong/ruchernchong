@@ -2,9 +2,7 @@
 ### Hi there 👋
 -->
 
-![Ru Chern's github stats](https://github-readme-stats.vercel.app/api?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchern-chong&show_icons=true&hide_border=true&theme=dark&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruchern-chong&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=DDDDDD)](https://git.io/streak-stats)
 
 <!--
 **ruchern/ruchern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
