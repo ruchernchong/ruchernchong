@@ -35,4 +35,10 @@ I have been writing code since the younger days through exploring and experiment
 <a href="https://github.com/ruchernchong" align="left"><img src="https://github-readme-stats-iota-steel.vercel.app/api/top-langs/?username=ruchernchong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 📝 Latest posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Feature flags are useful to control how the way we enable and disable features](https://ruchern.xyz/blog/feature-flags-are-useful-to-control-how-the-way-we-enable-and-disable-features)
+- [Set your default branch to `main` with .gitconfig](https://ruchern.xyz/blog/set-your-default-branch-to-main-with-gitconfig)
+- [How to automatically publish a new post to dev.to with Next.js and Sanity CMS](https://ruchern.xyz/blog/how-to-automatically-publish-a-new-post-to-devto-with-nextjs-and-sanity-cms)
+- [Making SEO better for blog posts with Structured Data](https://ruchern.xyz/blog/making-seo-better-for-blog-posts-with-structured-data)
+- [Enhance content sharing on mobile browsers using Web Share API](https://ruchern.xyz/blog/enhance-content-sharing-on-mobile-browsers-using-web-share-api)
+<!-- BLOG-POST-LIST:END -->
