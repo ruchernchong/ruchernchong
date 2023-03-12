@@ -34,5 +34,5 @@ I have been writing code since the younger days through exploring and experiment
 
 <a href="https://github.com/ruchernchong" align="left"><img src="https://github-readme-stats-iota-steel.vercel.app/api/top-langs/?username=ruchernchong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-📝 ### Latest posts
+### 📝 Latest posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
