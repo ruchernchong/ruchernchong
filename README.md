@@ -41,4 +41,8 @@ I have been writing code since the younger days through exploring and experiment
 - [How to automatically publish a new post to dev.to with Next.js and Sanity CMS](https://ruchern.xyz/blog/how-to-automatically-publish-a-new-post-to-devto-with-nextjs-and-sanity-cms)
 - [Making SEO better for blog posts with Structured Data](https://ruchern.xyz/blog/making-seo-better-for-blog-posts-with-structured-data)
 - [Enhance content sharing on mobile browsers using Web Share API](https://ruchern.xyz/blog/enhance-content-sharing-on-mobile-browsers-using-web-share-api)
+- [Using prototype to extend function in JavaScript](https://ruchern.xyz/blog/using-prototype-to-extend-function-in-javascript)
+- [Conditional settings for gitconfig](https://ruchern.xyz/blog/conditional-settings-for-gitconfig)
+- [2020: Year in Review](https://ruchern.xyz/blog/2020-year-in-review)
+- [2018: Year in Review](https://ruchern.xyz/blog/2018-year-in-review)
 <!-- BLOG-POST-LIST:END -->
