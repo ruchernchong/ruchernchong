@@ -10,7 +10,7 @@ I have been writing code since the younger days through exploring and experiment
 * 🖥️  See my portfolio at [Portfolio](http://ruchern.xyz)
 * ✉️  You can contact me at [hello@ruchern.xyz](mailto:hello@ruchern.xyz)
 * 🚀  I'm currently working on [Revamping my portfolio](http://ruchern.xyz)
-* 🧠  I'm learning Next.js, Rust
+* 🧠  I'm learning Next.js, Python, Rust
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Investor, trader, author
 
