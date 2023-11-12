@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - uses: szenius/set-timezone@v1.2
+        with:
+          timezoneLinux: "Asia/Singapore"
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
