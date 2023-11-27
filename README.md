@@ -24,6 +24,7 @@ I have been writing code since the younger days through exploring and experiment
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Exclamation Mark in TypeScript](https://ruchern.xyz/exclamation-mark-in-typescript)
 - [process.env vs import.meta](https://ruchern.xyz/process-env-vs-import-meta)
 - [Ways to use Exclude in TypeScript by Matt Pocock](https://ruchern.xyz/journals/ways-to-use-exclude-in-typescript)
 - [.repeat&lpar;&rpar; in String](https://ruchern.xyz/journals/repeat-in-string)
