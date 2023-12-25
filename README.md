@@ -24,21 +24,21 @@ I have been writing code since the younger days through exploring and experiment
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Exclamation Mark in TypeScript](https://ruchern.xyz/exclamation-mark-in-typescript)
-- [process.env vs import.meta](https://ruchern.xyz/process-env-vs-import-meta)
+- [Understanding the Non-null Assertion Operator &#39;!&#39;](https://ruchern.xyz/understanding-non-null-assertion-operator)
+- [Managing Environment Variables in Node and Browsers](https://ruchern.xyz/managing-environment-variables-in-node-and-browsers)
 - [Ways to use Exclude in TypeScript by Matt Pocock](https://ruchern.xyz/journals/ways-to-use-exclude-in-typescript)
 - [.repeat&lpar;&rpar; in String](https://ruchern.xyz/journals/repeat-in-string)
-- [Feature flags are useful to control how the way we enable and disable features](https://ruchern.xyz/feature-flags-are-useful-to-control-how-the-way-we-enable-and-disable-features)
+- [Guide to Feature Flags](https://ruchern.xyz/guide-to-feature-flags)
 - [Module Federation](https://ruchern.xyz/journals/module-federation)
-- [Set your default branch to `main` with .gitconfig](https://ruchern.xyz/set-your-default-branch-to-main-with-gitconfig)
+- [Switching from &#39;master&#39; to &#39;main&#39; in Git Repositories](https://ruchern.xyz/switching-from-master-to-main-in-git-repositories)
 - [console.table&lpar;&rpar;](https://ruchern.xyz/journals/console-table)
 - [CSS: line-clamp](https://ruchern.xyz/journals/css-line-clamp)
 - [Parse String to Boolean using JSON.parse&lpar;&rpar;](https://ruchern.xyz/journals/parse-string-to-boolean-using-json-parse)
 - [import.meta](https://ruchern.xyz/journals/import-meta)
 - [New Array Prototype Methods](https://ruchern.xyz/journals/new-array-prototype-methods)
 - [RSS Autodiscovery to Site](https://ruchern.xyz/journals/rss-autodiscovery-to-site)
-- [Making SEO better for blog posts with Structured Data](https://ruchern.xyz/making-seo-better-for-blog-posts-with-structured-data)
-- [Enhance content sharing on mobile browsers using Web Share API](https://ruchern.xyz/enhance-content-sharing-on-mobile-browsers-using-web-share-api)
+- [Enhancing SEO with JSON-LD Structured Data](https://ruchern.xyz/enhancing-seo-with-json-ld-structured-data)
+- [Easily Share Content with Web Share API on Mobile](https://ruchern.xyz/easily-share-content-with-web-share-api-on-mobile)
 - [Double tilde operator in JavaScript](https://ruchern.xyz/journals/double-tilde-operator-in-javascript)
-- [Conditional settings for .gitconfig](https://ruchern.xyz/conditional-settings-for-gitconfig)
+- [Managing Git Configurations with Conditional Includes](https://ruchern.xyz/managing-git-configurations-with-conditional-includes)
 <!-- BLOG-POST-LIST:END -->
