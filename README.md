@@ -24,6 +24,7 @@ I have been writing code since the younger days through exploring and experiment
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Singapore EV Trends](https://ruchern.xyz/building-singapore-ev-trends)
 - [Understanding the Non-null Assertion Operator &#39;!&#39;](https://ruchern.xyz/understanding-non-null-assertion-operator)
 - [Managing Environment Variables in Node and Browsers](https://ruchern.xyz/managing-environment-variables-in-node-and-browsers)
 - [Ways to use Exclude in TypeScript by Matt Pocock](https://ruchern.xyz/journals/ways-to-use-exclude-in-typescript)
