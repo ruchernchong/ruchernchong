@@ -12,7 +12,7 @@ I have been writing code since the younger days through exploring and experiment
 * 🚀  I'm currently working on [Revamping my portfolio](http://ruchern.xyz)
 * 🧠  I'm learning Next.js, Python, Rust
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Investor, trader, author
+* ⚡  Developer, trader, author
 
 ### Skills  
 
