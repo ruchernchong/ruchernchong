@@ -24,6 +24,7 @@ I have been writing code since the younger days through exploring and experiment
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built my blog](https://ruchern.xyz/posts/how-i-built-my-blog)
 - [Apple&#39;s Vision Pro - Redefining Accessibility for Disabilities](https://ruchern.xyz/posts/apples-vision-pro-redefining-accessibility-for-disabilities)
 - [Building Singapore EV Trends](https://ruchern.xyz/posts/building-singapore-ev-trends)
 - [Understanding the Non-null Assertion Operator &#39;!&#39;](https://ruchern.xyz/posts/understanding-non-null-assertion-operator)
