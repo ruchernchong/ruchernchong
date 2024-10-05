@@ -19,5 +19,5 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://ruchern.xyz/feed.xml"
+          feed_list: "https://ruchern.dev/feed.xml"
           max_post_count: 100
