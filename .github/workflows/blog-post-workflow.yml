@@ -16,6 +16,8 @@ jobs:
       - uses: szenius/set-timezone@v2.0
         with:
           timezoneLinux: "Asia/Singapore"
+          timezoneMacos: "Asia/Singapore"
+          timezoneWindows: "Singapore Standard Time"
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
