@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have been writing code since the younger days through exploring and experimenting. I am a frontend developer having worked in the telecommunications, banking and financial services industry. I believe with technology, we are able to change how the way we automate things to make living more efficient and smarter.
 
-* 🌍  I'm based in Singapore
+* 🌍  I'm based in Singapore 🇸🇬
 * 🖥️  See my portfolio at [Portfolio](http://ruchern.dev)
 * ✉️  You can contact me at [hello@ruchern.dev](mailto:hello@ruchern.dev)
 * 🚀  I'm currently working on [Revamping my portfolio](http://ruchern.dev), [SG Cars Trends](https://sgcarstrends.com)
