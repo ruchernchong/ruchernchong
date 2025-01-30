@@ -25,7 +25,7 @@ I have been writing code since the younger days through exploring and experiment
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Actions workflow syntax](https://ruchern.dev/notes/github-actions-workflow-syntax)
 - [How I built my blog](https://ruchern.dev/posts/how-i-built-my-blog)
-- [Apple&#39;s Vision Pro - Redefining Accessibility for Disabilities](https://ruchern.dev/posts/apples-vision-pro-redefining-accessibility-for-disabilities)
+- [Apple&#39;s Vision Pro - Redefining Accessibility](https://ruchern.dev/posts/apples-vision-pro-redefining-accessibility)
 - [Building Singapore EV Trends](https://ruchern.dev/posts/building-singapore-ev-trends)
 - [Understanding the Non-null Assertion Operator &#39;!&#39;](https://ruchern.dev/posts/understanding-non-null-assertion-operator)
 - [Managing Environment Variables in Node and Browsers](https://ruchern.dev/posts/managing-environment-variables-in-node-and-browsers)
