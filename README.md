@@ -23,6 +23,7 @@ I have been writing code since the younger days through exploring and experiment
 
 ### 📝 Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Patching critical third-party risks you don’t control](https://ruchern.dev/blog/patching-critical-third-party-risks-you-dont-control)
 - [How I built my blog](https://ruchern.dev/blog/how-i-built-my-blog)
 - [Apple&#39;s Vision Pro - Redefining Accessibility](https://ruchern.dev/blog/apples-vision-pro-redefining-accessibility)
 - [Building Singapore EV Trends](https://ruchern.dev/blog/building-singapore-ev-trends)
