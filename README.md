@@ -69,14 +69,14 @@ const me = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Patching critical third-party risks you don't control](https://ruchern.dev/blog/patching-critical-third-party-risks-you-dont-control)
+- [Patching critical third-party risks you don’t control](https://ruchern.dev/blog/patching-critical-third-party-risks-you-dont-control)
 - [How I built my blog](https://ruchern.dev/blog/how-i-built-my-blog)
-- [Apple's Vision Pro - Redefining Accessibility](https://ruchern.dev/blog/apples-vision-pro-redefining-accessibility)
+- [Apple&#39;s Vision Pro - Redefining Accessibility](https://ruchern.dev/blog/apples-vision-pro-redefining-accessibility)
 - [Building Singapore EV Trends](https://ruchern.dev/blog/building-singapore-ev-trends)
-- [Understanding the Non-null Assertion Operator '!'](https://ruchern.dev/blog/understanding-non-null-assertion-operator)
+- [Understanding the Non-null Assertion Operator &#39;!&#39;](https://ruchern.dev/blog/understanding-non-null-assertion-operator)
 - [Managing Environment Variables in Node and Browsers](https://ruchern.dev/blog/managing-environment-variables-in-node-and-browsers)
 - [Guide to Feature Flags](https://ruchern.dev/blog/guide-to-feature-flags)
-- [Switching from 'master' to 'main' in Git Repositories](https://ruchern.dev/blog/switching-from-master-to-main-in-git-repositories)
+- [Switching from &#39;master&#39; to &#39;main&#39; in Git Repositories](https://ruchern.dev/blog/switching-from-master-to-main-in-git-repositories)
 - [Enhancing SEO with JSON-LD Structured Data](https://ruchern.dev/blog/enhancing-seo-with-json-ld-structured-data)
 - [Easily Share Content with Web Share API on Mobile](https://ruchern.dev/blog/easily-share-content-with-web-share-api-on-mobile)
 - [Managing Git Configurations with Conditional Includes](https://ruchern.dev/blog/managing-git-configurations-with-conditional-includes)
