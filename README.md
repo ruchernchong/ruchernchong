@@ -64,10 +64,10 @@ const me = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Under The Hood](/blog/under-the-hood)
+- [From Idea to Launch](/blog/from-idea-to-launch)
 - [Level up your workflow with GitHub CLI](/blog/level-up-your-workflow-with-github-cli)
 - [Patching critical third-party risks you don’t control](/blog/patching-critical-third-party-risks-you-dont-control)
-- [How I built my blog](/blog/how-i-built-my-blog)
-- [Apple&#39;s Vision Pro - Redefining Accessibility](/blog/apples-vision-pro-redefining-accessibility)
 - [Understanding the Non-null Assertion Operator &#39;!&#39;](/blog/understanding-non-null-assertion-operator)
 - [Managing Environment Variables in Node and Browsers](/blog/managing-environment-variables-in-node-and-browsers)
 - [Guide to Feature Flags](/blog/guide-to-feature-flags)
