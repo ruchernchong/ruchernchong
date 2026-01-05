@@ -64,8 +64,7 @@ const me = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Under The Hood](/blog/under-the-hood)
-- [From Idea to Launch](/blog/from-idea-to-launch)
+- [S$8,000: The New CPF Ceiling](/blog/8000-the-new-cpf-ceiling)
 - [Level up your workflow with GitHub CLI](/blog/level-up-your-workflow-with-github-cli)
 - [Patching critical third-party risks you don’t control](/blog/patching-critical-third-party-risks-you-dont-control)
 - [Understanding the Non-null Assertion Operator &#39;!&#39;](/blog/understanding-non-null-assertion-operator)
