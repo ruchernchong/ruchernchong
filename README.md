@@ -12,12 +12,12 @@
 
 ## Current Projects
 
-- 🚗 **[SG Cars Trends](https://sgcarstrends.com)** - Data visualization for Singapore automotive market trends.
-- ⚙️ **[claude-kit](https://github.com/ruchernchong/claude-kit)** - Powertools for Claude Code — specialized agents, slash commands, and skills.
+- 🚗 **[MotorMetrics](https://motormetrics.app)** (formerly SG Cars Trends) - Data visualization for Singapore automotive market trends.
+- ⚙️ **[Tartiner Labs skills](https://github.com/tartinerlabs/skills)** - Claude Code skills for git workflows, GitHub automation, security audits, refactoring, and project tooling.
+- 📊 **[AgentUsage](https://github.com/tartinerlabs/AgentUsage)** - Monitor your Claude Code usage in real time from the macOS menu bar and iOS widgets.
 
 ## Open Source
 
-- ⚙️ **[claude-kit](https://github.com/ruchernchong/claude-kit)** - Powertools for Claude Code including specialized agents, slash commands, and skills.
 - 💰 **[simplycpf](https://github.com/ruchernchong/simplycpf)** - Singapore CPF contribution rates, projections, and developer API.
 - 🌐 **[cloudflare-mobile-config](https://github.com/ruchernchong/cloudflare-mobile-config)** - iOS/iPadOS & macOS encrypted DNS profile via Cloudflare.
 - ⚙️ **[dotfiles](https://github.com/ruchernchong/dotfiles)** - Cross-platform macOS/Linux config with Homebrew and Zsh.
@@ -30,7 +30,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@ruchernchong-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruchernchong)
+[![X](https://img.shields.io/badge/-@ruchernchong-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ruchernchong)
 [![Email](https://img.shields.io/badge/-hello@ruchern.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@ruchern.dev)
 [![Website](https://img.shields.io/badge/-ruchern.dev-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://ruchern.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchernchong)
