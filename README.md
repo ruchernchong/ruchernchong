@@ -33,6 +33,11 @@
 - Writing about TypeScript, Git, and developer productivity
 - Exploring personal finance tooling for Singapore investors
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Connect
 
 [![X](https://img.shields.io/badge/-@ruchernchong-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ruchernchong)
