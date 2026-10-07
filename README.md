@@ -36,6 +36,16 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Per-project shell environments with direnv](https://ruchern.dev/blog/per-project-shell-environments-with-direnv)
+- [How I use GitHub CLI day-to-day](https://ruchern.dev/blog/level-up-your-workflow-with-github-cli)
+- [Patching critical third-party risks you don&#39;t control](https://ruchern.dev/blog/patching-critical-third-party-risks-you-dont-control)
+- [What the ! operator does in TypeScript and Swift](https://ruchern.dev/blog/understanding-non-null-assertion-operator)
+- [process.env vs import.meta: environment variables in Node and the browser](https://ruchern.dev/blog/managing-environment-variables-in-node-and-browsers)
+- [Feature flags: ship code without shipping features](https://ruchern.dev/blog/guide-to-feature-flags)
+- [Setting &#39;main&#39; as your default Git branch](https://ruchern.dev/blog/switching-from-master-to-main-in-git-repositories)
+- [Adding JSON-LD structured data to your React blog](https://ruchern.dev/blog/enhancing-seo-with-json-ld-structured-data)
+- [Using the Web Share API to trigger the OS share sheet](https://ruchern.dev/blog/easily-share-content-with-web-share-api-on-mobile)
+- [Different Git identities for personal and work projects](https://ruchern.dev/blog/managing-git-configurations-with-conditional-includes)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
