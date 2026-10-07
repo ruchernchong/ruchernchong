@@ -8,19 +8,24 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-> I build tools for developers and retail investors — fast, focused, and data-driven.
+> I build developer tools, AI agent tooling, and data apps — fast and focused.
+
+🧪 Building at **[Tartiner Labs](https://tartinerlabs.com)** — Claude Code tooling, browser extensions, and indie apps.
 
 ## Current Projects
 
 - 🚗 **[MotorMetrics](https://motormetrics.app)** (formerly SG Cars Trends) - Data visualization for Singapore automotive market trends.
 - ⚙️ **[Tartiner Labs skills](https://github.com/tartinerlabs/skills)** - Claude Code skills for git workflows, GitHub automation, security audits, refactoring, and project tooling.
 - 📊 **[AgentUsage](https://github.com/tartinerlabs/AgentUsage)** - Monitor your Claude Code usage in real time from the macOS menu bar and iOS widgets.
+- 🧩 **[claude-code-mods](https://github.com/tartinerlabs/claude-code-mods)** - Live panes, status line entries, toasts, and hooks for Claude Code, shipped as plugins.
+- 🔍 **[opengraph-preview](https://github.com/tartinerlabs/opengraph-preview)** - Browser extension that previews Open Graph tags across X, Slack, LinkedIn, and more — even on localhost.
 
 ## Open Source
 
 - 💰 **[simplycpf](https://github.com/ruchernchong/simplycpf)** - Singapore CPF contribution rates, projections, and developer API.
-- 🌐 **[cloudflare-mobile-config](https://github.com/ruchernchong/cloudflare-mobile-config)** - iOS/iPadOS & macOS encrypted DNS profile via Cloudflare.
 - ⚙️ **[dotfiles](https://github.com/ruchernchong/dotfiles)** - Cross-platform macOS/Linux config with Homebrew and Zsh.
+- ⚡ **[cfspeed](https://github.com/ruchernchong/cfspeed)** - Go CLI that measures Cloudflare network latency, packet loss, and download/upload speeds.
+- 📅 **[is-leap-year](https://isleapyear.app)** - A satirical "enterprise-grade" leap year detection API.
 
 ## What I'm Doing
 
@@ -33,6 +38,7 @@
 [![X](https://img.shields.io/badge/-@ruchernchong-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ruchernchong)
 [![Email](https://img.shields.io/badge/-hello@ruchern.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@ruchern.dev)
 [![Website](https://img.shields.io/badge/-ruchern.dev-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://ruchern.dev)
+[![Tartiner Labs](https://img.shields.io/badge/-Tartiner_Labs-6E40C9?style=flat-square&logo=google-chrome&logoColor=white)](https://tartinerlabs.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchernchong)
 
 ---
